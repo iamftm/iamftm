@@ -1,3 +1,4 @@
+![logo](https://images.stockcake.com/public/6/5/9/6596aff0-ecd6-4f5a-a7bf-d5a191395196_medium/coding-coffee-break-stockcake.jpg)
 <h1 align="center">Hi 👋, I'm fateme</h1>
 <h3 align="center">front-end developer</h3>
 <img align="right" alt="coding skills loading..." width="400" src="https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif">
