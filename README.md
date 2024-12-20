@@ -3,9 +3,9 @@
 <img align="right" alt="coding skills loading..." width="400" src="https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamftm&label=Profile%20views&color=0e75b6&style=flat" alt="iamftm" /> </p>
 
-- 🔭 I’m currently working on **deep music loading...**
+- 🔭 I’m currently working on **deep music**
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **front end skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamftm](https://github.com/iamftm)
 
